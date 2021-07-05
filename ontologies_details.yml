@@ -1,0 +1,21 @@
+- purl: http://purl.obolibrary.org/obo/rxno.owl 
+  id: rxno
+  title: Name Reaction Ontology
+  iri: http://purl.obolibrary.org/obo/RXNO_
+- purl: http://purl.obolibrary.org/obo/mop.owl
+  id: mop
+  title: Molecular Process Ontology
+  iri: http://purl.obolibrary.org/obo/MOP_
+- purl: http://semanticscience.org/ontology/cheminf.owl
+  id: cheminf
+  title: Chemical Information Ontology
+  iri: http://semanticscience.org/resource/
+- purl: https://raw.githubusercontent.com/rsc-ontologies/rsc-cmo/master/chmo.owl
+  id: chmo
+  title: Chemical Methods Ontology
+  iri: http://purl.obolibrary.org/obo/CHMO_
+- purl: https://raw.githubusercontent.com/obophenotype/chiro/master/chiro.owl
+  id: chiro
+  title: CHEBI Integrated Role Ontology
+  iri: http://purl.obolibrary.org/obo/chiro#
+# MORE TO COME

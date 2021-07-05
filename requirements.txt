@@ -1,0 +1,6 @@
+jupyter
+pyyaml
+rdflib
+SPARQLWrapper
+owlready2
+python-igraph
